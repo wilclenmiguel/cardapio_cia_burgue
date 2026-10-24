@@ -13,7 +13,7 @@ import streamlit as st
 
 # ======================= CONFIGURAÇÃO =======================
 # Número do WhatsApp do restaurante: DDI + DDD + número, só dígitos (ex.: 5531999999999)
-NUMERO_RESTAURANTE = "5531987323341"
+NUMERO_RESTAURANTE = "5531973328780"
 NOME_RESTAURANTE = "Na Chapa & Cia"
 # ============================================================
 
